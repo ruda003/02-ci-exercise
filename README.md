@@ -1,4 +1,6 @@
 
+test
+
 I denne leksjonen skal vi se på viktige prinsipper som 
 
 - Trunk based development 
