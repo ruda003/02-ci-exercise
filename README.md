@@ -35,7 +35,7 @@ Nå vil flyten din bli omtrent som som følger
 - Sjekk ut master og "pull" siste versjon av koden
 - Lag en ny branch for din feature
 - Implementer kode og test i din branch 
-- Når du er fornøyd med funksjonaliteten. Rebase branchen din interaktivt mot master. Fjern unødvenige commits, og skriv gode kommentarer
+- Når du er fornøyd med innholdet i branchen din. Rebase branchen din interaktivt mot master. Fjern unødvenige commits, og skriv gode kommentarer
  ```
  git rebase -i master
  ```
