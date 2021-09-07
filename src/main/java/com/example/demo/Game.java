@@ -1,7 +1,7 @@
 package com.example.demo;
 
 /**
- * Exercise Implement the rest of the code neccessary 
+ * Exercise Implement the rest of the code neccessary
  */
 public class Game {
 
