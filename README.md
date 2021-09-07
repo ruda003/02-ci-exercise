@@ -12,7 +12,9 @@ I denne leksjonen skal vi se på viktige prinsipper som
 
 - Dere trenger en GitHub Konto
 - Fork dette repositoriet inn i deres egen konto
-- Følg denne bruksanvisningen for å konfigurere GitHub og Travis <https://docs.travis-ci.com/user/tutorial/#to-get-started-with-travis-ci-using-github>
+- Følg denne bruksanvisningen for å konfigurere GitHub og Travis OBS! Les den siste setningern! :-)  <https://docs.travis-ci.com/user/tutorial/#to-get-started-with-travis-ci-using-github> NB! Gjør bare de tre første stegene ! 
 
+## Konfigurer travis 
 
+- Ko
 
